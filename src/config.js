@@ -1,0 +1,1 @@
+export const APR_URL='https://api.udilia.com/coins/v1';
